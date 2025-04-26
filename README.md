@@ -22,18 +22,12 @@ Before setting up Agent UI, you may want to have an Agno Playground running. If 
 
 ### Installation
 
-### Automatic Installation (Recommended)
-
-```bash
-npx create-agent-ui@latest
-```
-
 ### Manual Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/agno-agi/agent-ui.git
+git clone https://github.com/LasithaAmarasinghe/AI-Agent.git
 cd agent-ui
 ```
 
